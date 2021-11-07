@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Final Product
 This project is about managing small tournaments (like Super Smash Bros).
 By the end of the module, our React App will look like this:
-!["Tourney Page"](https://github.com/bbjarvis/tourney-matches/blob/master/docs/Tourney%20Page.png)
+!["Tourney Page"](https://github.com/bbjarvis/tourney-matches/blob/main/docs/Tourney%20Page.png)
 
 
 
