@@ -1,3 +1,14 @@
+# Tourney Matches
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). (see [Getting Started with Create React App](#getting-started-with-create-react-app) section for info)
+
+## Final Product
+This project is about managing small tournaments (like Super Smash Bros).
+By the end of the module, our React App will look like this:
+!["Tourney Page"](https://github.com/bbjarvis/tourney-matches/blob/master/docs/Tourney%20Page.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
